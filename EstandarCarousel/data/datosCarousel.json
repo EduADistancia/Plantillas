@@ -1,0 +1,17 @@
+[
+    {
+        "referencia": "Subtitulo 1",
+        "tipo": "texto",
+        "contenido": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui ut, reprehenderit, impedit voluptates quia repellendus non eveniet ipsa quo sit magni nesciunt numquam porro labore, eligendi doloribus similique architecto deleniti!"
+    },
+    {
+        "referencia": "Subtitulo 2",
+        "tipo": "imagen",
+        "contenido": "./ico/Iconos__Azul-15.png"
+    },
+    {
+        "referencia": "Subtitulo N",
+        "tipo": "multimedia",
+        "contenido": "<iframe width='560' height='315' src='https://www.youtube.com/embed/vStJoetOxJg?si=wrZyMdUuvpzSbIcO' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>"
+    }
+]
