@@ -5,6 +5,6 @@
 ### Plantillas
 Conjunto de plantillas con diseño según manual de marca.
 
--[Plantilla estándar](https://eduadistancia.github.io/Plantillas/Estandar/)
--[Plantilla estándar con cabecera](https://eduadistancia.github.io/Plantillas/EstandarCabecera/)
--[Plantilla estándar con carrousel](https://eduadistancia.github.io/Plantillas/EstandarCarousel/)
+- [Plantilla estándar](https://eduadistancia.github.io/Plantillas/Estandar/)
+- [Plantilla estándar con cabecera](https://eduadistancia.github.io/Plantillas/EstandarCabecera/)
+- [Plantilla estándar con carrousel](https://eduadistancia.github.io/Plantillas/EstandarCarousel/)
