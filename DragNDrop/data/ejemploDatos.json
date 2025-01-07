@@ -1,0 +1,50 @@
+[
+    {
+        "Tipo": "Frase",
+        "Texto": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus porro <span>__________</span> alias illo quasi quaerat eius praesentium, expedita quisquam quod, iure distinctio vel inventore hic molestias cum qui exercitationem explicabo ad.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Palabra",
+        "Texto": "opción válida",
+        "Devolucion": "Justificación de opción válida.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Palabra",
+        "Texto": "incorrecta",
+        "Devolucion": "Justificación de opción inválida.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Palabra",
+        "Texto": "inválida",
+        "Devolucion": "Justificación de opción inválida.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Frase",
+        "Texto": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus porro <span>__________</span> alias illo quasi quaerat eius praesentium, expedita quisquam quod, iure distinctio vel inventore hic molestias cum qui exercitationem explicabo ad.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Palabra",
+        "Texto": "opción válida",
+        "Devolucion": "Justificación de opción válida.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Palabra",
+        "Texto": "incorrecta",
+        "Devolucion": "Justificación de opción inválida.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Palabra",
+        "Texto": "inválida",
+        "Devolucion": "Justificación de opción inválida.",
+        "Estado": 0
+    }
+]

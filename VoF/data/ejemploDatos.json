@@ -1,0 +1,74 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Esta es una proposición falsa.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "Correcto",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Esta es una proposición verdadera.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "Correcto",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "De la conjunción de una verdad y una falsedad resulta una falsedad.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "Correcto",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "No existe operador lógico para representar la disjunción.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "Correcto",
+        "Estado": 1
+    }
+]

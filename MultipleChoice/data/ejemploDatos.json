@@ -1,0 +1,52 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Es una pregunta de ejemplo?"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No estoy de acuerdo.",
+        "Devolucion": "Incorrecto. Agregar justificación.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Estoy de acuerdo.",
+        "Devolucion": "¡Correcto! Agregar justificación.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "N/S, N/C.",
+        "Devolucion": "Incorrecto. Agregar justificación.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Puede variar la cantidad de respuestas?"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Es imposible.",
+        "Devolucion": "Incorrecto. Agregar justificación.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Es incompatible.",
+        "Devolucion": "Incorrecto. Agregar justificación.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Si",
+        "Devolucion": "¡Correcto! Son datos no estructurados.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "De ninguna manera.",
+        "Devolucion": "Incorrecto. Agregar justificación.",
+        "Estado": 0
+    }
+]

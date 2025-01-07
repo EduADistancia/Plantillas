@@ -1,0 +1,102 @@
+[
+    {
+        "Tipo": "Concepto",
+        "Texto": "1",
+        "Valor": "1"
+    },
+    {
+        "Tipo": "Concepto",
+        "Texto": "2",
+        "Valor": "2"
+    },
+    {
+        "Tipo": "Concepto",
+        "Texto": "3",
+        "Valor": "3"
+    },
+    {
+        "Tipo": "Concepto",
+        "Texto": "4",
+        "Valor": "4"
+    },
+    {
+        "Tipo": "Concepto",
+        "Texto": "5",
+        "Valor": "5"
+    },
+    {
+        "Tipo": "Concepto",
+        "Texto": "6",
+        "Valor": "6"
+    },
+    {
+        "Tipo": "Concepto",
+        "Texto": "7",
+        "Valor": "7"
+    },
+    {
+        "Tipo": "Concepto",
+        "Texto": "8",
+        "Valor": "8"
+    },
+    {
+        "Tipo": "Concepto",
+        "Texto": "9",
+        "Valor": "9"
+    },
+    {
+        "Tipo": "Concepto",
+        "Texto": "10",
+        "Valor": "10"
+    },
+    {
+        "Tipo": "Descripcion",
+        "Texto": "Dos",
+        "Valor": "2"
+    },
+    {
+        "Tipo": "Descripcion",
+        "Texto": "Cinco",
+        "Valor": "5"
+    },
+    {
+        "Tipo": "Descripcion",
+        "Texto": "Diez",
+        "Valor": "10"
+    },
+    {
+        "Tipo": "Descripcion",
+        "Texto": "Seis",
+        "Valor": "6"
+    },
+    {
+        "Tipo": "Descripcion",
+        "Texto": "Siete",
+        "Valor": "7"
+    },
+    {
+        "Tipo": "Descripcion",
+        "Texto": "Cuatro",
+        "Valor": "4"
+    },
+    {
+        "Tipo": "Descripcion",
+        "Texto": "Uno",
+        "Valor": "1"
+    },
+    {
+        "Tipo": "Descripcion",
+        "Texto": "Tres",
+        "Valor": "3"
+    },
+    {
+        "Tipo": "Descripcion",
+        "Texto": "Ocho",
+        "Valor": "8"
+    },
+    {
+        "Tipo": "Descripcion",
+        "Texto": "Nueve",
+        "Valor": "9"
+    }
+]
