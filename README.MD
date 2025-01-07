@@ -12,7 +12,7 @@ Conjunto de plantillas con diseño según manual de marca.
 Modelo de actividades
 
 - [H5P Incrustado](https://eduadistancia.github.io/Plantillas/H5PEmbed/)
-- [Arrastrar y soltal](https://eduadistancia.github.io/Plantillas/DragNDrop/)
+- [Arrastrar y soltar](https://eduadistancia.github.io/Plantillas/DragNDrop/)
 - [Ordenar tabla](https://eduadistancia.github.io/Plantillas/OrdenarTabla/)
 - [Cuestionario de opción múltiple](https://eduadistancia.github.io/Plantillas/MultipleChoice/)
 - [Cuestionario "Verdadero o Falso"](https://eduadistancia.github.io/Plantillas/VoF/)
